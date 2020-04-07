@@ -1,1 +1,1 @@
-rm
+find -delete "toto"
